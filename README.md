@@ -78,7 +78,7 @@ Em `Run/Debug Configuration`, crie uma configuração Gradle e define conforme a
 Gradle project
 
 ```
-password-api
+challenge-password-api
 ```
 
 Task
